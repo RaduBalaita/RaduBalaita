@@ -1,30 +1,94 @@
 # About Me
 
 * 🎓 Completed my Master’s degree in Artificial Intelligence at the Gheorghe Asachi Technical University of Iași
-* 🎓 Graduate of Faculty of Automatic Control and Computer Engineering at the Vasile Alecsandri University of Bacău
+* 🎓 Graduate of Information Technology at the Vasile Alecsandri University of Bacău
 * 💼 Artificial Intelligence Software Engineer, focusing on production-grade agentic systems and robust infrastructure
 * 🌱 Passionate about local edge-AI deployment, hardware-software co-design, and multi-agent orchestration
 * 💡 Love architecting deterministic, resilient systems and optimizing end-to-end data pipelines
-* 📄 Check out my [resume (PDF)](mailto:radubalaita01@gmail.com?subject=Resume%20Request)
 
 ---
 
 # Technologies & Tools
 
-### Programming
-`Python` `C++` `SQL` `JavaScript`
-
-### AI/ML & Orchestration
-`LangGraph` `LangChain` `Snowflake Cortex AI` `PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `PaddleOCR`
-
-### Frameworks & Libraries
-`FastAPI` `SQLAlchemy 2.0` `Celery` `Pydantic` `Streamlit` `React` `ZeroMQ`
-
-### Cloud, CI/CD & DevOps
-`Azure` `Docker` `Terraform IaC` `Kubernetes` `Redis` `Git` `GitHub Actions`
-
-### Operating Systems & Runtimes
-`Linux (CachyOS / Arch)` `Llama.cpp` `Vulkan Compute`
+<table width="100%">
+  <tr>
+    <!-- Caseta 1: AI/ML & Orchestration -->
+    <td width="50%" valign="top">
+      <table width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
+        <tr>
+          <td align="center" style="border: none;">
+            <code style="font-size: 12px;">AI/ML & Orchestration</code>
+            <br/><br/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="28"/>
+            <br/>
+            <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/Snowflake-29B6F6?style=for-the-badge&logo=snowflake&logoColor=white" height="28"/>
+            <br/>
+            <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Caseta 2: Frameworks & Libraries -->
+    <td width="50%" valign="top">
+      <table width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
+        <tr>
+          <td align="center" style="border: none;">
+            <code style="font-size: 12px;">Frameworks & Libraries</code>
+            <br/><br/>
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/Celery-3775A9?style=for-the-badge&logo=celery&logoColor=white" height="28"/>
+            <br/>
+            <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
+            <br/>
+            <img src="https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white" height="28"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <!-- Caseta 3: Cloud, CI/CD & DevOps -->
+    <td width="50%" valign="top">
+      <table width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
+        <tr>
+          <td align="center" style="border: none;">
+            <code style="font-size: 12px;">Cloud, CI/CD & DevOps</code>
+            <br/><br/>
+            <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="28"/>
+            <br/>
+            <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Caseta 4: Operating Systems & Runtimes -->
+    <td width="50%" valign="top">
+      <table width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
+        <tr>
+          <td align="center" style="border: none;">
+            <code style="font-size: 12px;">Operating Systems & Runtimes</code>
+            <br/><br/>
+            <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/Vulkan-E52421?style=for-the-badge&logo=vulkan&logoColor=white" height="28"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -36,13 +100,6 @@
 | **IEEE Conference Paper: YOLOv5n NPU Acceleration** | Hardware-software co-design for a real-time 34-class gesture recognition pipeline on NXP i.MX 8M Plus NPU, implementing recursive model surgery (SiLU to ReLU) and SIMD optimization. |
 | **Enterprise AI Platform at Fincode** | Production-grade multi-agent banking assistant utilizing LangGraph with SQL checkpointing, a 5-stage RAG pipeline (Azure AI Search), FastAPI, and Terraform infrastructure. |
 | **End-to-End Spam Detection Engine** | Text classifier utilizing a Bidirectional LSTM (BiLSTM) in TensorFlow, deployed as an authenticated Flask service tracking live Gmail inbox data. |
-
----
-
-# ⚡ Profile Statistics
-
-![Radu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaduBalaita&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaduBalaita&layout=compact&theme=dark)
 
 ---
 
