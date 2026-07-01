@@ -38,7 +38,7 @@
       <table width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
         <tr>
           <td align="center" style="border: none;">
-            <code style="font-size: 12px;">Frameworks & Libraries</code>
+            <code style="font-size: 12px;">Frameworks, Runtimes & Languages</code>
             <br/><br/>
             <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
             <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white" height="28"/>
@@ -46,18 +46,20 @@
             <br/>
             <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="28"/>
             <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/>
-            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
-            <br/>
             <img src="https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white" height="28"/>
+            <br/>
+            <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/Vulkan-E52421?style=for-the-badge&logo=vulkan&logoColor=white" height="28"/>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
           </td>
         </tr>
       </table>
     </td>
   </tr>
   <tr>
-    <!-- Caseta 3: Cloud, CI/CD & DevOps -->
-    <td width="50%" valign="top">
-      <table width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
+    <!-- Caseta 3 Centrată: Cloud, CI/CD & DevOps -->
+    <td colspan="2" align="center" style="padding-top: 15px;">
+      <table width="50%" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
         <tr>
           <td align="center" style="border: none;">
             <code style="font-size: 12px;">Cloud, CI/CD & DevOps</code>
@@ -69,20 +71,8 @@
             <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28"/>
             <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"/>
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28"/>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- Caseta 4: Operating Systems & Runtimes -->
-    <td width="50%" valign="top">
-      <table width="100%" style="border: 1px solid #30363d; border-radius: 6px; padding: 10px;">
-        <tr>
-          <td align="center" style="border: none;">
-            <code style="font-size: 12px;">Operating Systems & Runtimes</code>
-            <br/><br/>
+            <br/>
             <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="28"/>
-            <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28"/>
-            <img src="https://img.shields.io/badge/Vulkan-E52421?style=for-the-badge&logo=vulkan&logoColor=white" height="28"/>
           </td>
         </tr>
       </table>
